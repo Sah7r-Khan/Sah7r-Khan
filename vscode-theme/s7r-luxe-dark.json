@@ -1,0 +1,134 @@
+{
+  "name": "S7R Luxe Dark",
+  "type": "dark",
+  "colors": {
+    "titleBar.activeBackground": "#0F0615",
+    "titleBar.activeForeground": "#F8F4FC",
+    "titleBar.inactiveBackground": "#0A0410",
+    "titleBar.inactiveForeground": "#A89CB5",
+    "activityBar.background": "#0F0615",
+    "activityBar.foreground": "#F8F4FC",
+    "activityBar.inactiveForeground": "#6B5A75",
+    "activityBar.activeBorder": "#E91E8C",
+    "activityBarBadge.background": "#E91E8C",
+    "activityBarBadge.foreground": "#0F0615",
+    "statusBar.background": "#0F0615",
+    "statusBar.foreground": "#F8F4FC",
+    "statusBar.debuggingBackground": "#9D2FE8",
+    "statusBar.debuggingForeground": "#0F0615",
+    "statusBarItem.remoteBackground": "#9D2FE8",
+    "statusBarItem.remoteForeground": "#0F0615",
+    "statusBarItem.hoverBackground": "#2D1540",
+    "sideBar.background": "#0D040F",
+    "sideBar.foreground": "#E8DCF5",
+    "sideBarTitle.foreground": "#F8F4FC",
+    "sideBarSectionHeader.background": "#0F0615",
+    "editor.background": "#0F0615",
+    "editor.foreground": "#F0E8F8",
+    "editorLineNumber.foreground": "#564670",
+    "editorLineNumber.activeForeground": "#D946EF",
+    "editorCursor.foreground": "#E91E8C",
+    "editor.selectionBackground": "#2D1540",
+    "editor.inactiveSelectionBackground": "#1F0E2E",
+    "editor.lineHighlightBackground": "#150A1F",
+    "editorIndentGuide.activeBackground1": "#9D2FE8",
+    "tab.activeBackground": "#0F0615",
+    "tab.activeForeground": "#F8F4FC",
+    "tab.inactiveBackground": "#0A0410",
+    "tab.inactiveForeground": "#6B5A75",
+    "tab.activeBorderTop": "#E91E8C",
+    "tab.border": "#050208",
+    "focusBorder": "#9D2FE8",
+    "list.activeSelectionBackground": "#2D1540",
+    "list.activeSelectionForeground": "#F8F4FC",
+    "list.hoverBackground": "#150A1F",
+    "list.inactiveSelectionBackground": "#1F0E2E",
+    "panel.background": "#0D040F",
+    "panel.border": "#2D1540",
+    "panelTitle.activeBorder": "#E91E8C",
+    "terminal.background": "#0F0615",
+    "terminal.foreground": "#F0E8F8",
+    "terminal.ansiMagenta": "#E91E8C",
+    "terminal.ansiBrightMagenta": "#D946EF",
+    "terminal.ansiBlue": "#9D2FE8",
+    "terminal.ansiBrightBlue": "#B565FF",
+    "button.background": "#E91E8C",
+    "button.foreground": "#0F0615",
+    "button.hoverBackground": "#F41A95",
+    "badge.background": "#9D2FE8",
+    "badge.foreground": "#0F0615",
+    "progressBar.background": "#E91E8C",
+    "scrollbarSlider.background": "#2D154088",
+    "scrollbarSlider.hoverBackground": "#4A2A6688",
+    "scrollbarSlider.activeBackground": "#9D2FE8AA",
+    "editorError.foreground": "#FF6B6B",
+    "editorWarning.foreground": "#FFD93D",
+    "editorInfo.foreground": "#6BCB77",
+    "editorHint.foreground": "#4D96FF"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#7A6A85",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#FECA57"
+      }
+    },
+    {
+      "scope": ["constant.numeric", "constant.language"],
+      "settings": {
+        "foreground": "#D946EF"
+      }
+    },
+    {
+      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "settings": {
+        "foreground": "#E91E8C"
+      }
+    },
+    {
+      "scope": ["entity.name.function", "support.function"],
+      "settings": {
+        "foreground": "#B565FF"
+      }
+    },
+    {
+      "scope": ["entity.name.class", "entity.name.type"],
+      "settings": {
+        "foreground": "#F41A95"
+      }
+    },
+    {
+      "scope": ["variable", "variable.parameter"],
+      "settings": {
+        "foreground": "#F0E8F8"
+      }
+    },
+    {
+      "scope": ["entity.name.tag"],
+      "settings": {
+        "foreground": "#9D2FE8"
+      }
+    },
+    {
+      "scope": ["markup.bold"],
+      "settings": {
+        "foreground": "#F8F4FC",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["markup.italic"],
+      "settings": {
+        "foreground": "#E8DCF5",
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}
